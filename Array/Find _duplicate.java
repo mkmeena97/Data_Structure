@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Find _duplicate
 {
    public static int[] dublicateValue(int arr1[],int arr2[])
